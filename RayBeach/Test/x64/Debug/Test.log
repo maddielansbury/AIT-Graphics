@@ -1,0 +1,46 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Practical1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+3dpractical.obj : error LNK2019: unresolved external symbol __imp_glewInit referenced in function main
+3dpractical.obj : error LNK2019: unresolved external symbol __imp_glutInitWindowPosition referenced in function main
+3dpractical.obj : error LNK2019: unresolved external symbol __imp_glutInitWindowSize referenced in function main
+3dpractical.obj : error LNK2019: unresolved external symbol __imp_glutInitDisplayMode referenced in function main
+3dpractical.obj : error LNK2019: unresolved external symbol __imp_glutMainLoop referenced in function main
+3dpractical.obj : error LNK2019: unresolved external symbol __imp_glutPostRedisplay referenced in function "void __cdecl onIdle(void)" (?onIdle@@YAXXZ)
+3dpractical.obj : error LNK2019: unresolved external symbol __imp_glutSwapBuffers referenced in function "void __cdecl onDisplay(void)" (?onDisplay@@YAXXZ)
+3dpractical.obj : error LNK2019: unresolved external symbol __imp_glutIdleFunc referenced in function main
+3dpractical.obj : error LNK2019: unresolved external symbol __imp_glutKeyboardFunc referenced in function main
+3dpractical.obj : error LNK2019: unresolved external symbol __imp_glutReshapeFunc referenced in function main
+3dpractical.obj : error LNK2019: unresolved external symbol __imp_glutDisplayFunc referenced in function main
+3dpractical.obj : error LNK2019: unresolved external symbol __imp_glutKeyboardUpFunc referenced in function main
+3dpractical.obj : error LNK2019: unresolved external symbol __imp_glutGet referenced in function "void __cdecl onIdle(void)" (?onIdle@@YAXXZ)
+3dpractical.obj : error LNK2019: unresolved external symbol __imp___glutInitWithExit referenced in function glutInit_ATEXIT_HACK
+3dpractical.obj : error LNK2019: unresolved external symbol __imp___glutCreateWindowWithExit referenced in function glutCreateWindow_ATEXIT_HACK
+3dpractical.obj : error LNK2019: unresolved external symbol __imp_glutInitContextVersion referenced in function main
+3dpractical.obj : error LNK2001: unresolved external symbol __imp___glewActiveTexture
+3dpractical.obj : error LNK2001: unresolved external symbol __imp___glewBindBuffer
+3dpractical.obj : error LNK2001: unresolved external symbol __imp___glewBufferData
+3dpractical.obj : error LNK2001: unresolved external symbol __imp___glewGenBuffers
+3dpractical.obj : error LNK2001: unresolved external symbol __imp___glewAttachShader
+3dpractical.obj : error LNK2001: unresolved external symbol __imp___glewBindAttribLocation
+3dpractical.obj : error LNK2001: unresolved external symbol __imp___glewCompileShader
+3dpractical.obj : error LNK2001: unresolved external symbol __imp___glewCreateProgram
+3dpractical.obj : error LNK2001: unresolved external symbol __imp___glewCreateShader
+3dpractical.obj : error LNK2001: unresolved external symbol __imp___glewDeleteProgram
+3dpractical.obj : error LNK2001: unresolved external symbol __imp___glewEnableVertexAttribArray
+3dpractical.obj : error LNK2001: unresolved external symbol __imp___glewGetProgramiv
+3dpractical.obj : error LNK2001: unresolved external symbol __imp___glewGetShaderInfoLog
+3dpractical.obj : error LNK2001: unresolved external symbol __imp___glewGetShaderiv
+3dpractical.obj : error LNK2001: unresolved external symbol __imp___glewGetUniformLocation
+3dpractical.obj : error LNK2001: unresolved external symbol __imp___glewLinkProgram
+3dpractical.obj : error LNK2001: unresolved external symbol __imp___glewShaderSource
+3dpractical.obj : error LNK2001: unresolved external symbol __imp___glewUniform1i
+3dpractical.obj : error LNK2001: unresolved external symbol __imp___glewUniformMatrix4fv
+3dpractical.obj : error LNK2001: unresolved external symbol __imp___glewUseProgram
+3dpractical.obj : error LNK2001: unresolved external symbol __imp___glewVertexAttribPointer
+3dpractical.obj : error LNK2001: unresolved external symbol __imp___glewBindFragDataLocation
+3dpractical.obj : error LNK2001: unresolved external symbol __imp___glewBindVertexArray
+3dpractical.obj : error LNK2001: unresolved external symbol __imp___glewGenVertexArrays
+3dpractical.obj : error LNK2001: unresolved external symbol __imp_glewExperimental
+C:\Users\dulbe\Desktop\SCHOOL\Graphics\3DPractical\Libs\glew\glew32s.lib : warning LNK4272: library machine type 'X86' conflicts with target machine type 'x64'
+C:\Users\dulbe\Desktop\SCHOOL\Graphics\3DPractical\Libs\glew\glew32.lib : warning LNK4272: library machine type 'X86' conflicts with target machine type 'x64'
+C:\Users\dulbe\Desktop\SCHOOL\Graphics\3DPractical\Libs\freeglut\freeglut.lib : warning LNK4272: library machine type 'X86' conflicts with target machine type 'x64'
+C:\Users\dulbe\Desktop\SCHOOL\Graphics\3DPractical\x64\Debug\3DPractical.exe : fatal error LNK1120: 41 unresolved externals

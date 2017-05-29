@@ -1,0 +1,60 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (3DPractical.vcxproj, RayPractical.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  raybeach.cpp
+c:\users\dulbe\desktop\school\graphics\raypractical\mat4x4.h(268): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\dulbe\desktop\school\graphics\raybeach\raybeach.cpp(176): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\dulbe\desktop\school\graphics\raybeach\raybeach.cpp(183): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\dulbe\desktop\school\graphics\raybeach\raybeach.cpp(184): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\raybeach\raybeach.cpp(221): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\dulbe\desktop\school\graphics\raybeach\raybeach.cpp(223): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\dulbe\desktop\school\graphics\raybeach\raybeach.cpp(227): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\raybeach\raybeach.cpp(230): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\raybeach\raybeach.cpp(233): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\raybeach\raybeach.cpp(236): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\raybeach\raybeach.cpp(297): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\raybeach\raybeach.cpp(383): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\dulbe\desktop\school\graphics\raybeach\raybeach.cpp(391): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\dulbe\desktop\school\graphics\raybeach\raybeach.cpp(392): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\dulbe\desktop\school\graphics\raybeach\raybeach.cpp(651): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\raybeach\raybeach.cpp(655): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\raybeach\raybeach.cpp(657): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\raybeach\raybeach.cpp(659): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\raybeach\raybeach.cpp(667): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\raybeach\raybeach.cpp(668): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\raybeach\raybeach.cpp(670): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\raybeach\raybeach.cpp(671): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\raybeach\raybeach.cpp(673): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\raybeach\raybeach.cpp(674): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\raybeach\raybeach.cpp(676): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\raybeach\raybeach.cpp(677): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\raybeach\raybeach.cpp(678): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\raybeach\raybeach.cpp(679): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\raybeach\raybeach.cpp(680): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\raybeach\raybeach.cpp(681): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\raybeach\raybeach.cpp(682): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\raybeach\raybeach.cpp(683): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\raybeach\raybeach.cpp(685): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\raybeach\raybeach.cpp(686): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\raybeach\raybeach.cpp(687): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\raybeach\raybeach.cpp(688): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\raybeach\raybeach.cpp(689): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\raybeach\raybeach.cpp(690): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\raybeach\raybeach.cpp(691): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\raybeach\raybeach.cpp(692): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\raybeach\raybeach.cpp(693): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\raybeach\raybeach.cpp(694): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\raybeach\raybeach.cpp(695): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\raybeach\raybeach.cpp(696): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\raybeach\raybeach.cpp(698): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\raybeach\raybeach.cpp(702): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\raybeach\raybeach.cpp(703): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\raybeach\raybeach.cpp(704): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\raybeach\raybeach.cpp(724): warning C4018: '<': signed/unsigned mismatch
+c:\users\dulbe\desktop\school\graphics\raybeach\raybeach.cpp(740): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\raybeach\raybeach.cpp(743): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\raybeach\raybeach.cpp(744): warning C4018: '<': signed/unsigned mismatch
+c:\users\dulbe\desktop\school\graphics\raybeach\raybeach.cpp(747): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\raybeach\raybeach.cpp(753): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\raybeach\raybeach.cpp(780): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\dulbe\desktop\school\graphics\raybeach\raybeach.cpp(781): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Test.vcxproj -> C:\Users\dulbe\Desktop\SCHOOL\Graphics\RayBeach\Debug\RayBeach.exe
+  Test.vcxproj -> C:\Users\dulbe\Desktop\SCHOOL\Graphics\RayBeach\Debug\RayBeach.pdb (Partial PDB)

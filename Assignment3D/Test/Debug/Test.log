@@ -1,0 +1,53 @@
+﻿  assignment3d.cpp
+c:\users\dulbe\desktop\school\graphics\assignment3d\assignment3d.cpp(421): warning C4018: '<': signed/unsigned mismatch
+c:\users\dulbe\desktop\school\graphics\assignment3d\assignment3d.cpp(478): warning C4018: '<': signed/unsigned mismatch
+c:\users\dulbe\desktop\school\graphics\assignment3d\assignment3d.cpp(482): warning C4018: '<': signed/unsigned mismatch
+c:\users\dulbe\desktop\school\graphics\assignment3d\assignment3d.cpp(497): warning C4018: '<': signed/unsigned mismatch
+c:\users\dulbe\desktop\school\graphics\assignment3d\assignment3d.cpp(501): warning C4018: '<': signed/unsigned mismatch
+c:\users\dulbe\desktop\school\graphics\assignment3d\assignment3d.cpp(780): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\assignment3d\assignment3d.cpp(801): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\assignment3d\assignment3d.cpp(804): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\assignment3d\assignment3d.cpp(855): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\dulbe\desktop\school\graphics\assignment3d\assignment3d.cpp(871): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\assignment3d\assignment3d.cpp(871): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\dulbe\desktop\school\graphics\assignment3d\assignment3d.cpp(914): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\dulbe\desktop\school\graphics\assignment3d\assignment3d.cpp(916): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\dulbe\desktop\school\graphics\assignment3d\assignment3d.cpp(969): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\dulbe\desktop\school\graphics\assignment3d\assignment3d.cpp(1230): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\assignment3d\assignment3d.cpp(1231): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\assignment3d\assignment3d.cpp(1256): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\assignment3d\assignment3d.cpp(1257): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\assignment3d\assignment3d.cpp(1273): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\dulbe\desktop\school\graphics\assignment3d\assignment3d.cpp(1275): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\dulbe\desktop\school\graphics\assignment3d\assignment3d.cpp(1329): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\dulbe\desktop\school\graphics\assignment3d\assignment3d.cpp(1361): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\assignment3d\assignment3d.cpp(1362): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\assignment3d\assignment3d.cpp(1366): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\assignment3d\assignment3d.cpp(1367): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\assignment3d\assignment3d.cpp(1371): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\assignment3d\assignment3d.cpp(1375): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\assignment3d\assignment3d.cpp(1384): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+c:\users\dulbe\desktop\school\graphics\assignment3d\assignment3d.cpp(1428): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\assignment3d\assignment3d.cpp(1429): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\assignment3d\assignment3d.cpp(1446): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\dulbe\desktop\school\graphics\assignment3d\assignment3d.cpp(1448): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\dulbe\desktop\school\graphics\assignment3d\assignment3d.cpp(1502): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\dulbe\desktop\school\graphics\assignment3d\assignment3d.cpp(1543): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\assignment3d\assignment3d.cpp(1564): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\assignment3d\assignment3d.cpp(1604): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\assignment3d\assignment3d.cpp(1605): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\assignment3d\assignment3d.cpp(1606): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\assignment3d\assignment3d.cpp(1607): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\assignment3d\assignment3d.cpp(1617): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\assignment3d\assignment3d.cpp(1634): warning C4018: '<': signed/unsigned mismatch
+c:\users\dulbe\desktop\school\graphics\assignment3d\assignment3d.cpp(1635): warning C4018: '<': signed/unsigned mismatch
+c:\users\dulbe\desktop\school\graphics\assignment3d\assignment3d.cpp(1636): warning C4018: '<': signed/unsigned mismatch
+c:\users\dulbe\desktop\school\graphics\assignment3d\assignment3d.cpp(1637): warning C4018: '<': signed/unsigned mismatch
+c:\users\dulbe\desktop\school\graphics\assignment3d\assignment3d.cpp(1643): warning C4018: '<': signed/unsigned mismatch
+c:\users\dulbe\desktop\school\graphics\assignment3d\assignment3d.cpp(1644): warning C4018: '<': signed/unsigned mismatch
+c:\users\dulbe\desktop\school\graphics\assignment3d\assignment3d.cpp(1656): warning C4018: '<': signed/unsigned mismatch
+c:\users\dulbe\desktop\school\graphics\assignment3d\assignment3d.cpp(1663): warning C4018: '<': signed/unsigned mismatch
+c:\users\dulbe\desktop\school\graphics\assignment3d\assignment3d.cpp(1836): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+c:\users\dulbe\desktop\school\graphics\assignment3d\assignment3d.cpp(1861): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Test.vcxproj -> C:\Users\dulbe\Desktop\SCHOOL\Graphics\Assignment3D\Debug\Assignment3D.exe
+  Test.vcxproj -> C:\Users\dulbe\Desktop\SCHOOL\Graphics\Assignment3D\Debug\Assignment3D.pdb (Partial PDB)

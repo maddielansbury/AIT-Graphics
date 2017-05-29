@@ -1,0 +1,48 @@
+﻿  jupiterlanding.cpp
+c:\users\dulbe\desktop\school\graphics\jupiterlanding\jupiterlanding.cpp(2): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  c:\users\dulbe\desktop\school\graphics\jupiterlanding\jupiterlanding.cpp(2): note: command-line arguments:  see previous definition of '_CRT_SECURE_NO_WARNINGS'
+c:\users\dulbe\desktop\school\graphics\jupiterlanding\jupiterlanding.cpp(257): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\dulbe\desktop\school\graphics\jupiterlanding\jupiterlanding.cpp(512): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\jupiterlanding\jupiterlanding.cpp(513): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\jupiterlanding\jupiterlanding.cpp(535): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\jupiterlanding\jupiterlanding.cpp(557): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\jupiterlanding\jupiterlanding.cpp(559): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\jupiterlanding\jupiterlanding.cpp(593): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\jupiterlanding\jupiterlanding.cpp(595): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\jupiterlanding\jupiterlanding.cpp(635): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\jupiterlanding\jupiterlanding.cpp(636): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\dulbe\desktop\school\graphics\jupiterlanding\jupiterlanding.cpp(638): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\jupiterlanding\jupiterlanding.cpp(679): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\jupiterlanding\jupiterlanding.cpp(680): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\jupiterlanding\jupiterlanding.cpp(688): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\dulbe\desktop\school\graphics\jupiterlanding\jupiterlanding.cpp(689): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\dulbe\desktop\school\graphics\jupiterlanding\jupiterlanding.cpp(708): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\jupiterlanding\jupiterlanding.cpp(709): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\jupiterlanding\jupiterlanding.cpp(717): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\dulbe\desktop\school\graphics\jupiterlanding\jupiterlanding.cpp(718): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\dulbe\desktop\school\graphics\jupiterlanding\jupiterlanding.cpp(736): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\jupiterlanding\jupiterlanding.cpp(737): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\jupiterlanding\jupiterlanding.cpp(773): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\jupiterlanding\jupiterlanding.cpp(778): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\jupiterlanding\jupiterlanding.cpp(786): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\jupiterlanding\jupiterlanding.cpp(787): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\jupiterlanding\jupiterlanding.cpp(791): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\jupiterlanding\jupiterlanding.cpp(792): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\jupiterlanding\jupiterlanding.cpp(794): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\jupiterlanding\jupiterlanding.cpp(802): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+c:\users\dulbe\desktop\school\graphics\jupiterlanding\jupiterlanding.cpp(817): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\jupiterlanding\jupiterlanding.cpp(836): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dulbe\desktop\school\graphics\jupiterlanding\jupiterlanding.cpp(875): warning C4018: '<': signed/unsigned mismatch
+c:\users\dulbe\desktop\school\graphics\jupiterlanding\jupiterlanding.cpp(876): warning C4018: '<': signed/unsigned mismatch
+c:\users\dulbe\desktop\school\graphics\jupiterlanding\jupiterlanding.cpp(881): warning C4018: '<': signed/unsigned mismatch
+c:\users\dulbe\desktop\school\graphics\jupiterlanding\jupiterlanding.cpp(891): warning C4018: '<': signed/unsigned mismatch
+c:\users\dulbe\desktop\school\graphics\jupiterlanding\jupiterlanding.cpp(896): warning C4018: '<': signed/unsigned mismatch
+c:\users\dulbe\desktop\school\graphics\jupiterlanding\jupiterlanding.cpp(912): warning C4018: '<': signed/unsigned mismatch
+c:\users\dulbe\desktop\school\graphics\jupiterlanding\jupiterlanding.cpp(915): warning C4018: '<': signed/unsigned mismatch
+c:\users\dulbe\desktop\school\graphics\jupiterlanding\jupiterlanding.cpp(923): warning C4018: '<': signed/unsigned mismatch
+c:\users\dulbe\desktop\school\graphics\jupiterlanding\jupiterlanding.cpp(1089): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\dulbe\desktop\school\graphics\jupiterlanding\jupiterlanding.cpp(1090): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\dulbe\desktop\school\graphics\jupiterlanding\jupiterlanding.cpp(1092): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\dulbe\desktop\school\graphics\jupiterlanding\jupiterlanding.cpp(1112): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  JupiterLanding.vcxproj -> C:\Users\dulbe\Desktop\SCHOOL\Graphics\JupiterLanding\Debug\JupiterLanding.exe
+  JupiterLanding.vcxproj -> C:\Users\dulbe\Desktop\SCHOOL\Graphics\JupiterLanding\Debug\JupiterLanding.pdb (Partial PDB)
